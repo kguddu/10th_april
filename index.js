@@ -1,4 +1,4 @@
-// swap two nubers using third varaible;
+// swap two numbers using third varaible;
 
 
 
